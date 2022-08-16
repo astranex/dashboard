@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "traffics_public",
+  "info": {
+    "singularName": "traffic-public",
+    "pluralName": "traffics-public",
+    "displayName": "Пропуск трафика (с публичной интернет-адресацией)",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "range": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}

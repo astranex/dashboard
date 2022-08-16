@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "connection_points",
+  "info": {
+    "singularName": "connection-point",
+    "pluralName": "connection-points",
+    "displayName": "Точки присоединения",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
