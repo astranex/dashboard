@@ -2,7 +2,6 @@
 
 * {
   font-family: "Montserrat", sans-serif !important;
-  font-size: 95%;
 }
 
 body {
@@ -13,58 +12,9 @@ input {
   font-weight: 500 !important;
 }
 
-.iMOfri {
-  font-size: 0.85rem !important;
-  font-weight: 500 !important;
-}
-
-.hmQqzu .sc-jomnrV {
-  position: relative;
-  top: -1px;
-}
-
-.hmQqzu.active .sc-jomnrV {
-  font-weight: 600 !important;
-}
-
-.dzwOTt {
-  width: 150px;
-}
-
-.jrkuiJ,
-.jjcCzl,
-.djYBxE,
-.fRWcje {
-  background: #7bb83c !important;
-  border: 1px solid #7bb83c !important;
-}
-
-.jrkuiJ:hover,
-.jjcCzl:hover,
-.djYBxE:hover,
-.fRWcje:hover {
-  background: #8ccc4c !important;
-  border: 1px solid #8ccc4c !important;
-}
-
-.jrkuiJ[aria-disabled="true"],
-.jjcCzl[aria-disabled="true"],
-.djYBxE[aria-disabled="true"] {
-  border: 1px solid rgb(220, 220, 228) !important;
-  background: rgb(234, 234, 239) !important;
-}
-
 img[alt="Application logo"] {
   height: 3rem !important;
   width: 3rem !important;
   margin-top: 3px;
   margin-left: 10px;
-}
-
-.cgIHMa {
-  height: 19px !important;
-}
-
-.fvMKpC {
-  font-weight: 500 !important;
 }
